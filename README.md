@@ -27,4 +27,4 @@ This project was created during our 12-month full-stack training program to expl
 
 ## Contact
 
-The project was developed in collaboration with Hannah Rein. You can find Hannah on GitHub at [@hannahnier](https://github.com/hannahnier).
+The project was developed in collaboration with Barış Balcı. You can find Barış on GitHub at [@barisbalcimusic](https://github.com/barisbalcimusic).
